@@ -1,7 +1,7 @@
 == README
 
 I am a student. This is a project application.
-Subscription based web application
+Subscription based web applicationgoot
 
 Things you may want to cover:
 
